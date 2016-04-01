@@ -1,8 +1,8 @@
-# ManuNeo Ergodox Keyboard Layout
+# Andres Ergodox Keyboard Layout
 
 Compile this file to a `keymap.c` file using `compile_keymap.py`
 
-    python compile_keymap.py keymaps/german-manuneo/keymap.md
+    python compile_keymap.py keymap.md
 
 Tested with python 2.7 and python 3.4
 
@@ -20,8 +20,7 @@ Tested with python 2.7 and python 3.4
         "macros": {
             // TODO: implement macros
             // "MUC": "",
-        },
-        // TODO: implement default unicode mode
+        }
     }
 
 
